@@ -1,0 +1,25 @@
+{
+  "name": "express-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dp11701/express-api.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "ducphu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dp11701/express-api/issues"
+  },
+  "homepage": "https://github.com/Dp11701/express-api#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
